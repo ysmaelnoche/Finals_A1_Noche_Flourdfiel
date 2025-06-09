@@ -1,0 +1,6 @@
+@Finals_A1_Noche_Flourdfiel_HostAddress = http://localhost:5279
+
+GET {{Finals_A1_Noche_Flourdfiel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
